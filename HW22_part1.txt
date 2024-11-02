@@ -1,0 +1,45 @@
+### Q1: What is data science?
+
+#### A1: 
+Data science is about studying data to find useful information and solve problems. It combines math, computer skills, and knowledge of a specific field. Data scientists gather, clean, and analyze data, then create charts and models to help people understand what the data means and make decisions. They use tools like Python and R and apply their work in areas like business, healthcare, and finance.
+
+### Q2: What are the diferances between structured and unstructured data?
+
+#### A2: 
+Structured data is organized in a fixed format, like rows and columns in a database, making it easy to search and analyze. Examples include spreadsheets and SQL tables.
+Unstructured data doesn’t have a set structure, so it’s harder to organize and analyze. Examples include text, emails, images, and videos. Analyzing it often requires advanced tools.
+
+### Q3: What is Exploratory Data Analysis?
+
+#### A3:
+It is the process of looking at data to understand its main features before doing deeper analysis. It involves using charts, graphs, and basic statistics to spot patterns, trends, and outliers. EDA helps you see what the data looks like, find any problems, and decide how to analyze it further.
+
+### Q4: What are the 2 main aims  of data science use in commerce?
+
+#### A4: 
+1. Improving Decision-Making: Data science helps businesses make better decisions by analyzing data to identify trends, patterns, and insights. This leads to more informed strategies for areas like marketing, product development, and operations.
+
+2. Enhancing Customer Experience and Revenue: Data science is used to understand customer behavior, preferences, and needs. This allows businesses to personalize services, target the right audience, optimize pricing, and improve customer satisfaction, ultimately boosting sales and profits.
+
+### Q5: What are Gen-AI Tools?
+
+#### A5: 
+Gen-AI tools are advanced computer programs that create new content, like text, images, or music, similar to what humans would make. They learn from lots of examples and can generate things like stories, pictures, or code based on what you ask. These tools are used in areas like marketing, art, and automating tasks to make work easier and faster.
+
+### Q6: What 3 libraries will we use for Data Science?
+
+#### A6: 
+Numpy, Pandas, Matplotlib (I like Seaborn a bit more, so if posible i'd like to also use that).
+
+### Q7: a. Why Jupiter Notebook is usefull for Data Science?
+###	b. What is a Markdown? 
+###	c. What is the use of ! (exclamation mark) before a command?
+	
+#### Q7:
+	a. Jupyter Notebook is useful for data science because it lets you write and run code step-by-step, see results instantly, and create charts all in one place. You can also add notes and explanations alongside your code, making it easy to share and explain your work to others. This makes it great for exploring data, testing ideas, and working together.
+	b. A markdown is a text format in Jupiter allowing for notes, remarks and pictures. Making the code easier to read.
+	c. In Jupyter Notebook, the ! (exclamation mark) before a command is used to run shell commands directly from the notebook. This lets you execute command-line operations (like listing files, installing packages, or running scripts) without leaving the notebook environment. (like: !pip install numpy).
+	
+	
+	
+
